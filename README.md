@@ -2,7 +2,7 @@
 My first practice repository
 This repository is a small **professional portfolio** of work from my coursework. It includes a *multiple regression analysis* of Spotify song popularity in Excel, and a set of Python programs that practice core programming logic like conditionals and user input.
 
-- ## Table of contents
+## Table of contents
 
 - [Project Title](#project-title)
 - [Description](#description)
